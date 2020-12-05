@@ -3,10 +3,8 @@
     <v-navigation-drawer
       v-model="drawer"
       :clipped="clipped"
-      fixed      
+      fixed 
       app
-      floating
-      
     >
 <!-- close icon -->
    <v-card 
@@ -29,14 +27,14 @@
 v-for="(item, i) in items"
           :key="i"
           :to="item.to"
-          router
+          router               
           exact>
  
         <v-list-item  
           :to="item.to"
           router
-          exact    
-         v-if="!item.subLinks" > 
+          exact   
+          v-if="!item.subLinks" > 
           <v-list-item-action>
             <v-icon>{{ item.icon }}</v-icon>
           </v-list-item-action>
@@ -146,7 +144,7 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Császló',
+          title: 'Zajta',
           to: '/'
         },
         {
@@ -165,20 +163,40 @@ export default {
           to: '/testulet'
         },
         {
+          title: 'Alapítvány',
+          to: '/alapitvany'
+        },
+        {
+        title: 'Egyesület',
+          to: '/egyesulet'
+        },
+        {
+        title: 'Településrendezési terv',
+          to: '/telepulesrendezesi'
+        },
+        {
           icon: 'mdi-chart-bubble',
           title: 'Rendeletek',
           to: '/inspire',
           subLinks : [
             {
-                text : 'Helyi adó (1/2018)',
-                to    : '/1_2018',
+                text : 'Helyi adó (8/2009)',
+                to    : '/8-2009',
                 icon  : 'mdi-view-list'
             }
         ]
         },
       ],
-      title: 'Császló'
+      title: 'Zajta'
     }
   }
 }
 </script>
+
+<style>
+::-webkit-scrollbar {
+width: 0.1em;
+background: blue lighten-4;
+display: inline !important;
+}
+</style>

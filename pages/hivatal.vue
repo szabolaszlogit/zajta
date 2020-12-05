@@ -5,9 +5,9 @@
 
     <v-card-text>
 <p>
-<v-icon class="ma-2">mdi-city-variant</v-icon>Cím: Császló, Kossuth Lajos út 41., 4973 <br>
+<v-icon class="ma-2">mdi-city-variant</v-icon>Cím: 4974 Zajta, Kossuth u. 5.<br>
 
-<v-icon class="ma-2">mdi-phone-classic</v-icon>Telefonszám: (44) 568 029
+<v-icon class="ma-2">mdi-phone-classic</v-icon>Telefonszám: 06-44/568-016
 </p>
 
 

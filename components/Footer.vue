@@ -11,7 +11,7 @@
       tile
     >
       <v-card-title class="brown darken-4">
-        <strong class="subheading">Császló</strong> 
+        <strong class="subheading">Zajta</strong> 
         <v-spacer></v-spacer>
   
       </v-card-title>

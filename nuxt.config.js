@@ -53,13 +53,13 @@ export default {
       dark: false,
       themes: {
         light: {
-          primary: '#ffc107',
-          secondary: '#9c27b0',
-          accent: '#f44336',
-          error: '#2196f3',
-          warning:'#03a9f4',
-          info: '#009688',
-          success: '#4caf50'
+          primary: '#2196f3',
+          secondary: '#009688',
+          accent: '#3f51b5',
+          error: '#8bc34a',
+          warning: '#ff5722',
+          info: '#795548',
+          success:'#4caf50'
           },
         dark: {
           primary: colors.blue.darken2,

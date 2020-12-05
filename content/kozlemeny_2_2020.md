@@ -1,21 +1,41 @@
 ---
-title: Közlemény - 2/2020
-createdAt: "2020-08-07"
+title: A képviselő-testület tagjai számának megállapítása
+createdAt: "2020-02-20"
 ---
-Iktatószám: CS/296 – 2/2020.
+HELYI VÁLASZTÁSI IRODA VEZETŐJE
 
-A HELYI VÁLASZTÁSI IRODA VEZETŐJÉNEK K Ö Z L E M É N Y E
-A választási eljárásról szóló 2013. évi XXXVI. törvény 307/E. §. (1) bekezdésében foglalt jogkörömben eljárva megállapítom, hogy Császló Község településen a 2020. október 11. napjára kitűzött időközi polgármester és helyi önkormányzati képviselők választásán
-- önkormányzati képviselőjelölt állításhoz: 4 fő
-- polgármesterjelölt állításhoz: 10 fő
-választópolgár ajánlása szükséges.
+4971 Rozsály, Kossuth u. 21/a.
 
-A választási eljárásról szóló 2013. évi XXXVI. törvény 307/E. § szerint: „(1) Az egyéni listás jelölt, valamint a polgármesterjelölt állításához szükséges ajánlások számát a helyi választási iroda vezetője állapítja meg szavazást megelőző hatvanhatodik napon. (2) A szükséges ajánlások számának megállapításakor a választópolgárok számát a központi névjegyzéknek a szavazást megelőző hatvanhetedik napi adatai alapján kell megállapítani. (3) A szükséges ajánlások számát egész számra felfelé kerekítve kell megállapítani. A helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 9. § (1) – (3) bekezdései szerint a település lakosságszáma alapján „képviselőjelölt az, akit a választópolgárok legalább 1%-a jelöltnek ajánlott, illetve polgármesterjelölt az, akit a választópolgárok legalább 3%-a jelöltnek ajánlott.” A központi névjegyzék (Nemzeti Választási Iroda) 2020. augusztus 5. napi adatai alapján Császló településen a választópolgárok száma 309 fő volt.
+Telefon: /44/ 368-136. Fax: /44/ 568-015
 
-Rozsály, 2020. augusztus 6.
+e-mail: korjegyzo@rozsaly.hu
+Iktatószám: R/26 – 8/2019.
+Ügyintéző: Nadimovné A. Ildikó
+Tárgy: a képviselő-testület tagjai számának megállapítása
 
-Nadimovné Adorján Ildikó
+H A T Á R O Z A T
 
-jegyző, HVI Vezető
+A választási eljárásról szóló 2013. évi XXXVI. törvény. 306.§ (2) bekezdésében kapott felhatalmazás alapján, a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 4.§-a figyelembe vételével Zajta községben egyéni listás választási rendszerben a képviselők által megszerezhető mandátumok számát az alábbiak szerint határozom meg: 4 fő települési képviselő kerül  megválasztásra a község képviselő-testületébe.
+A polgármesternek megválasztott jelölt a törvény erejénél fogva tagja a képviselő-testületnek.
+E határozat a Rozsályi Közös Önkormányzati Hivatal Zajtai Kirendeltségének épülete (4974. Zajta, Kossuth u. 5.) hirdetőtábláján, valamint www.zajta.hu honlapon kerül közzétételre. A határozat ellen a választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbiakban:Ve.) 208-209.§-ában foglaltak alapján a Helyi Választási Bizottsághoz címzett (4971. Rozsály, Kossuth u.21/a) írásbeli kifogással lehet élni, úgy, hogy a megtámadott határozat közzétételétől számított három napon belül megérkezzen a Helyi Választási Irodához.
 
-<mybutton mhref="/downloads/kozlemeny_2_2020/kozlemeny_ajanlas_szamrol.pdf" micon="mdi-cloud-download" mtarget="_blank"></mybutton>
+INDOKOLÁS
+A Ve. 306.§ (2) bekezdése értelmében a Helyi Választási Iroda vezetője az általános választás évében február 15-ig határozatban állapítja meg a képviselő-testület soron következő általános választáson megválasztandó tagjainak számát. A helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 3.§-a értelmében a települési önkormányzat képviselő-testülete tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választása évének január 1-jei lakosságszáma alapján kell meghatározni. A helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 4.§-a szerint a 10.000 vagy ennél kevesebb lakosú település- egyéni listás választási rendszerben- egy választókerületet alkot, amelyben a képviselők száma:
+
+a.) 100 lakosig 2 fő
+
+b.) 1.000 lakosig 4 fő
+
+c.) 5.0000 lakosig 6 fő
+
+d.) 10.000 lakosig 8 fő
+
+
+
+Tekintettel arra, hogy Zajta község 2019. január 1-jei lakosságszáma 473 fő, így a hivatkozott jogszabályi rendelkezéseknek megfelelően a rendelkező részben foglaltak szerint döntöttem. A fentiek alapján a 2019. évi általános választásokon megválasztandó képviselő-testületi tagok száma 4 fő. A kifogás benyújtásának lehetőségét a Ve.208.§-a biztosítja, a benyújtására vonatkozó előírásokat a Ve.209.§-a és 212.§-a tartalmazza. A kifogás benyújtásának lehetőségéről való tájékoztatást a Ve. 46.§ c) pontjának cb) alpontja alapján adtam meg.
+Jelen határozat a választási eljárásról szóló 2013. évi XXXVI. törvény 46.§-ában, 208.§, 212.§-aiban, 306.§-ában, továbbá a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010.évi L. törvény 3.§-ában, 4.§ b) pontjában foglaltakon alapszik.
+A Helyi Választási Iroda intézkedik a határozat nyilvánosságra hozatala iránt.
+
+Rozsály, 2019. február 12.
+
+Nadimovné Adorján Ildikó HVI vezetője

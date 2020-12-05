@@ -7,8 +7,8 @@
 
 Ez a weboldal nem kezel személyes adatokat.
 
-<br><br>1.	Jelen adatkezelési tájékoztató az alábbi domain-ekre és azok aldomain-jeire terjed ki: csaszlo.hu. 
-<br><br>2.	Weboldal üzemeltetője, adatkezelő: Császló Község Önkormányzata, Cím: Császló, Kossuth Lajos út 41., 4973
+<br><br>1.	Jelen adatkezelési tájékoztató az alábbi domain-ekre és azok aldomain-jeire terjed ki: Zajta.hu. 
+<br><br>2.	Weboldal üzemeltetője, adatkezelő: Zajta Község Önkormányzata, Cím: 4974 Zajta, Kossuth u. 5.
 Telefonszám: (44) 568 029
 <br><br>3.	A adatkezeléssel kapcsolatos minden további kérdéssel kapcsolatban a honlap üzemeltetője rendelkezésre áll.
 <br><br>4.	Adatkezelő a személyes adatok kezeléséhez a szolgáltatás nyújtása során alkalmazott informatikai 
@@ -86,9 +86,9 @@ marketing célú, vagy célzó sütikkel.<br>
 A sütiket elhelyezheti:<br>
 -	a honlap (ez a weboldal)<br>
 -	vagy külső szolgáltató (harmadik fél), például Youtube, Facebook, Google stb.<br>
-Az Ön hozzájárulása a következő domainekre érvényes: csaszlo.hu<br>
-A honlap üzemeltetője, és a sütik használatával összefüggően a weboldali adatkezelésre jogosult: Császló Község Önkormányzata, Cím: Császló, Kossuth Lajos út 41., 4973
-Telefonszám: (44) 568 029<br><br>
+Az Ön hozzájárulása a következő domainekre érvényes: zajta.hu<br>
+A honlap üzemeltetője, és a sütik használatával összefüggően a weboldali adatkezelésre jogosult: Zajta Község Önkormányzata, Cím: 4974 Zajta, Kossuth u. 5.
+Telefonszám: 06-44/568-016<br><br>
 A harmadik fél által kezelt személyes adatok tekintetében a külső szolgáltatók saját adatvédelmi tájékoztatójában foglaltak az irányadók. E külső szolgáltatásokra a honlap üzemeltetőjének nincs befolyása. A szolgáltatók bármikor módosíthatják szolgáltatási feltételeiket, a sütik célját és használatát. Ahhoz, hogy meg tudja jeleníteni ezeket a harmadik fél által szolgáltatott tartalmakat, Önnek el kell fogadnia az adott szolgáltató szolgáltatásnyújtási feltételeit, köztük a sütik használatára vonatkozókat is.
 <br><br>
 
