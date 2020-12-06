@@ -10,7 +10,7 @@
       flat
       tile
     >
-      <v-card-title class="brown darken-4">
+      <v-card-title class="success">
         <strong class="subheading">Zajta</strong> 
         <v-spacer></v-spacer>
   

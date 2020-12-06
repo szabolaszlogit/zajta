@@ -80,7 +80,7 @@ v-for="(item, i) in items"
       color="#6A76AB"
       shrink-on-scroll
       :height="height"
-      src="header.jpg"
+      src="/header.jpg"
       fade-img-on-scroll
       scroll-threshold="500"
     >
