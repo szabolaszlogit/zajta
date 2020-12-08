@@ -60,6 +60,9 @@ v-for="(item, i) in items"
           router
           exact
         >
+        <v-list-item-action class="pl-4">
+        <v-icon>{{ sublink.icon }}</v-icon>
+        </v-list-item-action>
           <v-list-item-content>
             <v-list-item-title v-text="sublink.text"></v-list-item-title>
           </v-list-item-content>
@@ -183,6 +186,23 @@ export default {
                 text : 'Helyi adó (8/2009)',
                 to    : '/8-2009',
                 icon  : 'mdi-view-list'
+            }
+        ]
+        },
+        {
+          icon: 'mdi-file-document-multiple',
+          title: 'Pályázatok',
+          to: '/inspire',
+          subLinks : [
+            {
+                text : 'MFP-NHI/2019',
+                to    : '/MFP-NHI2019',
+                icon  : 'mdi-arrow-right-drop-circle-outline'
+            },
+            {
+                text : 'MFP OUF/2019',
+                to    : '/MFP OUF2019',
+                icon  : 'mdi-arrow-right-drop-circle-outline'
             }
         ]
         },
