@@ -6,10 +6,7 @@
            contain
       src="/pages/megvalosult_a_magyar_kormany_tamogatasaval_bga_alap.jpg"
     ></v-img>
-    <v-card-title>MFP-NHI/2019</v-card-title>
-    <v-card-subtitle>
-     MFP azonosító: 1003736094
-    </v-card-subtitle>
+    <v-card-title>Testvér-települési programok</v-card-title>
 <v-card-text>
 <h2>Bethlen Gábor Alap - Testvér-települési programok és együttműködések</h2>
 <p>Zajta Község Önkormányzata sikeresen pályázott a Bethlen Gábor Alapkezelő Zrt. által meghirdetett "Testvér-települési programok és együttműködések támogatása 2020" pályázati felhívásra benyújtott "Közös megemlékezés a Trianoni emlékév 100. évfordulóján és a Visszatérés napján Zajta és Lázári
