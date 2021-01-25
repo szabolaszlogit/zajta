@@ -195,6 +195,11 @@ export default {
           to: '/inspire',
           subLinks : [
             {
+                text : 'Testvértelepülés/2020',
+                to    : '/testvertelepules2020',
+                icon  : 'mdi-arrow-right-drop-circle-outline'
+            },
+            {
                 text : 'MFP-NHI/2019',
                 to    : '/MFP-NHI2019',
                 icon  : 'mdi-arrow-right-drop-circle-outline'
