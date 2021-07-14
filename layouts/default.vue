@@ -195,6 +195,11 @@ export default {
           to: '/inspire',
           subLinks : [
             {
+                text : 'NEAE-KP-1-2020',
+                to    : '/NEAE-KP-1-2020',
+                icon  : 'mdi-arrow-right-drop-circle-outline'
+            },
+            {
                 text : 'Testvértelepülés/2020',
                 to    : '/testvertelepules2020',
                 icon  : 'mdi-arrow-right-drop-circle-outline'
